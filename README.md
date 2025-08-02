@@ -9,6 +9,10 @@ This project explores the use of the Nano R4's Floating-Point Unit (FPU) through
 
 The Monte Carlo simulation is a statistical method used to estimate numerical results through random sampling. It's especially useful when a problem is too complex for analytical solutions — like estimating probabilities, integrals, or physical processes. Instead of solving a problem exactly, we simulate it many times using random numbers, and average the results.
 
+# 3d parts
+
+https://cults3d.com/en/3d-model/gadget/arduino-nano-r4-montecarlo-pi-estimation
+
 # Contact
 
 Roni Bandini https://www.instagram.com/ronibandini/
